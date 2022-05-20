@@ -1,0 +1,21 @@
+header{
+    height: 60px;
+    background-color: var(--color-primary);
+    color: #E5E5E5;
+    display: flex;
+    align-items: center;
+}
+.breakingbad-nav-content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.breakingbad-nav-content h1{
+    font-size: 24px;
+    margin:0;
+}
+
+.saymyname-contact-link{
+    margin:0;
+    font-size: 18px;
+}
